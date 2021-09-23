@@ -1,0 +1,2 @@
+I study git
+I add some changes
