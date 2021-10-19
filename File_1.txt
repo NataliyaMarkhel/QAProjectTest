@@ -1,5 +1,6 @@
 I study git
 I add some changes
+Commit test
 I add some changes again
 04.10.2021
 "New line" 
