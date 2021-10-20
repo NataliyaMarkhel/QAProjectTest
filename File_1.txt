@@ -1,4 +1,4 @@
-I study git
+I change the first line
 I add some changes
 Commit test
 I add some changes again
